@@ -146,10 +146,10 @@ git log --all --graph --decorate --oneline
    
    **Pasos a seguir:**
    1. Crea un repositorio en GitHub (repositorio remoto). 
-   2. Clona el repositorio en local, es decir en tu ordenador. 
-   3. Crea un index.html en tu repositorio local.
+   2. Clona el repositorio **en local**, es decir en tu ordenador. 
+   3. Crea un fichero con extensión .py en tu repositorio local.
    4. Sube el archivo al repositorio remoto. 
-   5. Modifica el index.html en local y mira que le pasa al archivo en el repositorio remoto.
+   5. Modifica el archivo **en local** y mira que le pasa al archivo en el repositorio remoto.
    6. Sube los cambios al repositorio remoto.
    7. Haz un cambio desde el repositorio remoto y mira que le pasa al archivo que está en local.
    8. Baja los cambios del repositorio a tu archivo local.
