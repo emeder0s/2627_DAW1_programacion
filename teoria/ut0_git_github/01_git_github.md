@@ -145,11 +145,11 @@ git log --all --graph --decorate --oneline
 1. En este ejercicio, el objetivo es practicar el uso individual de Git y GitHub para gestionar versiones de un proyecto personal. Cada uno trabajará en su propio repositorio en GitHub, utilizando Git para realizar seguimiento de cambios y colaborar consigo mismo para desarrollar nuevas características o corregir errores en el proyecto.
    
    **Pasos a seguir:**
-   1. Crea un repositorio en GitHub (repositorio remoto). 
+   1. Crea un repositorio en GitHub (repositorio **remoto**). 
    2. Clona el repositorio **en local**, es decir en tu ordenador. 
    3. Crea un fichero con extensión .py en tu repositorio local.
    4. Sube el archivo al repositorio remoto. 
    5. Modifica el archivo **en local** y mira que le pasa al archivo en el repositorio remoto.
-   6. Sube los cambios al repositorio remoto.
-   7. Haz un cambio desde el repositorio remoto y mira que le pasa al archivo que está en local.
+   6. Sube los cambios al repositorio **remoto**.
+   7. Haz un cambio desde el repositorio **remoto** y mira que le pasa al archivo que está **en local**.
    8. Baja los cambios del repositorio a tu archivo local.
