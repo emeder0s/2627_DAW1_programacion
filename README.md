@@ -10,7 +10,7 @@
 #### Python
 | Sesión | Contenido|
 |--------|----------|
-|16/11/26|[Introducción](./teoria/ut2_python1/ejercicios-practicos.md)|
+|20/11/26|[Ejercicios](./teoria/ut2_python1/ejercicios-practicos.md)|
 
 
 
