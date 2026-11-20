@@ -10,9 +10,9 @@
 #### Python
 | Sesión | Contenido|
 |--------|----------|
-|19/11/26|[Ejercicios](./teoria/ut2_python1/01-del-pseudocodigo-a-python.md)|
-|19/11/26|[Ejercicios](./teoria/ut2_python1/02-variables-tipos-conversiones-entrada-salida.md)|
-|19/11/26|[Ejercicios](./teoria/ut2_python1/03-estructuras-de-control.md)|
+|19/11/26|[Del pseudocódigo a Python](./teoria/ut2_python1/01-del-pseudocodigo-a-python.md)|
+|19/11/26|[Variables, tipos, conversiones, entrada y salida](./teoria/ut2_python1/02-variables-tipos-conversiones-entrada-salida.md)|
+|19/11/26|[Estructuras de control](./teoria/ut2_python1/03-estructuras-de-control.md)|
 |20/11/26|[Ejercicios](./teoria/ut2_python1/ejercicios-practicos.md)|
 
 
